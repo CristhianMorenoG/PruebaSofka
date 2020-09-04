@@ -1,4 +1,4 @@
-title: Prueba Sofka
+Prueba Sofka
 ---
 
 Este proyecto permite ejectuar una simulacion del momento de recepcion de equipajes de un vuelo antes de partir, adicionalmente ejecutar una calculadora de precios de manera interactiva y sin requerir software complejo.
